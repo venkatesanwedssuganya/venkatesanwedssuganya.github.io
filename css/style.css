@@ -17,7 +17,10 @@ body {
     box-shadow: -4px 0px 2px #8e8e8e;
 }
 
-
+.video{
+	width:100%;
+	height:auto;
+}
 
 .navbar {
     padding: 10px 50px;
